@@ -9,10 +9,11 @@
 - 📫 **Contact**: [hibatallahachir@gmail.com](mailto:hibatallahachir@gmail.com)
 
 ---
-
- <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+<div align="center">
+  <div style="flex: 1; display: flex; justify-content: center;">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="250" />
   </div>
+</div>
 
 ## 🛠 Tools & Technologies
 
