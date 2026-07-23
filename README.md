@@ -1,8 +1,8 @@
 # Hi 👋, I'm Hibaaa
 
-### Big Data and Cloud Computing Engineering Student In Mohammedia 🇲🇦
+### AI& Data Engineer 🇲🇦
 
-- 🌍 **Location**: Mohammedia, Morocco
+- 🌍 **Location**: Rabat, Morocco
 - 🧠 **Current Focus**: Working on exciting projects under the banner of **BIG SOLUTIONS**
 - 🌱 **Learning**: Deepening my knowledge in cybersecurity, hacking, and data tools
 - 💬 **Ask Me About**: Anything tech-related or otherwise!
